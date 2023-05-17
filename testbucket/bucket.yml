@@ -1,12 +1,5 @@
 flows:
-  1013f43f-ec4a-44cd-aba6-ac182a72e59f:
-    ver: 1
-    file: testflow.snapshot
-    comments: |
-      initial
-    author: anonymous
-    created: 1684342785899
-    flowName: testflow
-    flowDesc: ertst
+  1013f43f-ec4a-44cd-aba6-ac182a72e59f: {ver: 2, file: testflow.snapshot, comments: '2',
+    author: anonymous, created: 1684342794773, flowName: testflow, flowDesc: ertst}
 layoutVer: 1
 bucketId: 939b500b-31e8-4605-bd1c-83a9bdb7c270
