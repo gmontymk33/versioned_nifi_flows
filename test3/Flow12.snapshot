@@ -77,7 +77,7 @@
           "properties" : {
             "character-set" : "UTF-8",
             "File Size" : "0B",
-            "generate-ff-custom-text" : "#{testValue1} #{environment}",
+            "generate-ff-custom-text" : "#{testValue1}",
             "Batch Size" : "1",
             "Unique FlowFiles" : "false",
             "Data Format" : "Text"
@@ -191,15 +191,6 @@
       },
       "flowEncodingVersion" : "1.0",
       "parameterContexts" : {
-        "Generic" : {
-          "name" : "Generic",
-          "parameters" : [ {
-            "description" : "",
-            "name" : "environment",
-            "sensitive" : false,
-            "value" : "dv"
-          } ]
-        },
         "PC1" : {
           "name" : "PC1",
           "parameters" : [ {
