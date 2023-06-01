@@ -181,7 +181,7 @@
           "type" : "org.apache.nifi.processors.standard.LogAttribute",
           "yieldDuration" : "1 sec"
         }, {
-          "autoTerminatedRelationships" : [ ],
+          "autoTerminatedRelationships" : [ "success" ],
           "bulletinLevel" : "WARN",
           "bundle" : {
             "artifact" : "nifi-standard-nar",
@@ -197,8 +197,8 @@
           "name" : "LogMessage",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -164.29872843126884,
-            "y" : 346.23102047393706
+            "x" : -400.0,
+            "y" : 368.0
           },
           "properties" : {
             "log-level" : "info"
