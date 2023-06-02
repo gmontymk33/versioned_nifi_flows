@@ -9,7 +9,5 @@ flows:
     author: anonymous, created: 1685523547258, flowName: Flow12, flowDesc: ''}
   8e0201b3-43d8-442a-b6cb-5a9975ad2b62: {ver: 2, file: Flow11.snapshot, comments: '',
     author: anonymous, created: 1685523002308, flowName: Flow11, flowDesc: ''}
-  516a9b27-8177-4939-8a27-01a709407c1f: {ver: 1, file: PG20.snapshot, comments: '',
-    author: anonymous, created: 1685716656072, flowName: PG20, flowDesc: ''}
 layoutVer: 1
 bucketId: 39f18fee-49a5-41e3-9298-2ca2da819aa3
