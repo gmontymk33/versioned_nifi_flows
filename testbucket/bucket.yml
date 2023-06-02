@@ -3,7 +3,5 @@ flows:
     author: anonymous, created: 1684342794773, flowName: testflow, flowDesc: ertst}
   8bdd9223-2e2c-4e79-8d6a-6ca11e66a576: {ver: 3, file: test6.snapshot, comments: newversion,
     author: anonymous, created: 1684938994961, flowName: test6, flowDesc: ''}
-  29741909-4c25-4502-a2b4-f60bd7ff01e0: {ver: 1, file: test4.snapshot, comments: '',
-    author: anonymous, created: 1684937062524, flowName: test4, flowDesc: ''}
 layoutVer: 1
 bucketId: 939b500b-31e8-4605-bd1c-83a9bdb7c270
