@@ -1,7 +1,5 @@
 flows:
   1013f43f-ec4a-44cd-aba6-ac182a72e59f: {ver: 2, file: testflow.snapshot, comments: '2',
     author: anonymous, created: 1684342794773, flowName: testflow, flowDesc: ertst}
-  8bdd9223-2e2c-4e79-8d6a-6ca11e66a576: {ver: 3, file: test6.snapshot, comments: newversion,
-    author: anonymous, created: 1684938994961, flowName: test6, flowDesc: ''}
 layoutVer: 1
 bucketId: 939b500b-31e8-4605-bd1c-83a9bdb7c270
