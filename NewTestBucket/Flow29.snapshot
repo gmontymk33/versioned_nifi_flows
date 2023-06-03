@@ -136,8 +136,8 @@
           "name" : "GenerateFlowFile",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 1000.0,
-            "y" : 576.0
+            "x" : 1040.0,
+            "y" : 528.0
           },
           "properties" : {
             "character-set" : "UTF-8",
@@ -215,7 +215,7 @@
             "name" : "AzureClientId",
             "provided" : false,
             "sensitive" : false,
-            "value" : "XZXZXZX"
+            "value" : "TEST"
           }, {
             "description" : "",
             "name" : "AzureScope",
@@ -234,6 +234,12 @@
             "provided" : false,
             "sensitive" : false,
             "value" : "ORIOITORT"
+          }, {
+            "description" : "",
+            "name" : "AzureScope",
+            "provided" : false,
+            "sensitive" : false,
+            "value" : "BIGGERTEST"
           }, {
             "description" : "",
             "name" : "MatchingTopics",
