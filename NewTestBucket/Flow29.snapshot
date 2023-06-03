@@ -81,7 +81,7 @@
           "name" : "LogMessage",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 936.0,
+            "x" : 1056.0,
             "y" : 872.0
           },
           "properties" : {
