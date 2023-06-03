@@ -136,7 +136,7 @@
           "name" : "GenerateFlowFile",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 1040.0,
+            "x" : 1064.0,
             "y" : 528.0
           },
           "properties" : {
@@ -208,7 +208,7 @@
       "parameterContexts" : {
         "ContextAzure" : {
           "componentType" : "PARAMETER_CONTEXT",
-          "inheritedParameterContexts" : [ ],
+          "inheritedParameterContexts" : [ "ContextOauth" ],
           "name" : "ContextAzure",
           "parameters" : [ {
             "description" : "",
@@ -246,6 +246,24 @@
             "provided" : false,
             "sensitive" : false,
             "value" : "PPPP"
+          } ]
+        },
+        "ContextOauth" : {
+          "componentType" : "PARAMETER_CONTEXT",
+          "inheritedParameterContexts" : [ ],
+          "name" : "ContextOauth",
+          "parameters" : [ {
+            "description" : "",
+            "name" : "OauthURL",
+            "provided" : false,
+            "sensitive" : false,
+            "value" : "TYTRYRYT"
+          }, {
+            "description" : "",
+            "name" : "OauthId",
+            "provided" : false,
+            "sensitive" : false,
+            "value" : "BNVCBNVBNV"
           } ]
         }
       },
